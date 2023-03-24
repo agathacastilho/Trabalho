@@ -1,0 +1,47 @@
+.top-img{
+    text-align: center;
+    display: block;
+    margin-top: 0 auto;
+    width: 100%;
+    height: 350px;
+
+}
+body{
+    margin: 0;
+    background: rgb(157, 203, 224);
+    height: 60%;
+}
+
+footer {
+    background-color: #daf1f1;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #160e0e;
+  }
+.cabecalho > h1{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.primeiro{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+
+}
+.segundo{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+
+}
+.terceiro{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+
+}
+.cadastro{
+    margin-left: 20px;
+}
